@@ -1,0 +1,16 @@
+import qrcode
+
+myqr0 = qrcode.make("Potato 1")
+myqr0.save("myqr0.png")
+myqr1 = qrcode.make("Potato 2")
+myqr1.save("myqr1.png")
+myqr2 = qrcode.make("Potato 3")
+myqr2.save("myqr2.png")
+myqr3 = qrcode.make("Potato 4")
+myqr3.save("myqr3.png")
+myqr4 = qrcode.make("Potato 5")
+myqr4.save("myqr4.png")
+myqr5 = qrcode.make("Potato 6")
+myqr5.save("myqr5.png")
+myqr6 = qrcode.make("Potato 7")
+myqr6.save("myqr6.png")
